@@ -29,5 +29,11 @@ I decided to start with the development of the system and see if my algorithm wo
  * Make sure that the list of recommended books contains no more than three books by the author of the original book 
  * Improve the code, make it cleaner
 
+6. UML DIAGRAMS
+I made the following UML diagrams:
+* Use_case_diagram
+https://github.com/polinatrump/Book_recommendation_system/blob/main/Use_case_diagram.svg
+* Activity_diagram
 
+* Object_diagram
 
