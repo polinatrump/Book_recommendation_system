@@ -34,6 +34,6 @@ I made the following UML diagrams:
 * Use_case_diagram
 https://github.com/polinatrump/Book_recommendation_system/blob/main/Use_case_diagram.svg
 * Activity_diagram
-
+https://github.com/polinatrump/Book_recommendation_system/blob/main/Activity_diagram.svg
 * Object_diagram
-
+https://github.com/polinatrump/Book_recommendation_system/blob/main/Object_diagram.svg
